@@ -4,37 +4,8 @@ $(document).ready(function() {
     displayQuoteFromArray();
 
     $("#next_quote").click(function() {
-        $('#main').fadeOut();
-        getRandomQuote();
+        $('#main').fadeOut(1200, displayQuoteFromArray);
     });
-    
-    function getRandomQuote() {
-        $.ajax({
-        type: "POST",
-        url: "https://andruxnet-random-famous-quotes.p.mashape.com/?cat=famous",
-        dataType: "json",
-        success: displayAPIQuote, 
-
-        //@todo create a function that will display quotes from an array is AJAX fails
-        error: displayQuoteFromArray,
-        beforeSend: setHeader,
-        
-    });
-
-    function setHeader(xhr) {
-        xhr.setRequestHeader("X-Mashape-Key", "XEmG41b3OumshAGz4MeTGVfhZNmdp1Cty6ajsnAKusfLZ0iZKC");
-        xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
-        xhr.setRequestHeader("Accept", "application/json");
-      }
-    }
-    function displayAPIQuote(response) {
-        console.log(response[0].quote);
-        $("#quote").text(response[0].quote);
-        $('#author').text(response[0].author);
-        //update the tweet href
-        tweetQuote();
-        $('#main').fadeIn(1200); 
-    }
 
     function displayQuote(response) {
             console.log(response.quote);
@@ -48,20 +19,20 @@ $(document).ready(function() {
     function displayQuoteFromArray() {
         var myQuotes = [
 	        {
-	            author: "Salvador Dali",
-	            quote:"The only difference between me and a madman is that I'm not mad."
+	            author: "C S Lewis",
+	            quote:"A sum can be put right; but only by going back till you find the error and working it afresh from that point, never by simply going on."
 	        },
 	        {
-	            author: "Soren Aabye Kierkegaard",
-	            quote:"People demand freedom of speech to make up for the freedom of thought which they avoid"
+	            author: "John Dewey",
+	            quote:"A problem we’ll stated is a problem half solved."
 	        },
 	        {
-	            author: "Oscar Wilde",
-	            quote:"The only way to get rid of a temptation is to yield to it."
+	            author: "",
+	            quote:"Sometimes the boring way is best."
 	        },
 	        {
-	            author: "Aldous Huxley",
-	            quote:"Maybe this world is another planet's Hell."
+	            author: "",
+	            quote:"Take it apart, one piece at a time."
 	        },
 	        {
 	            author: "Thomas Alba Edison",
