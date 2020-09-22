@@ -23,7 +23,7 @@ $(document).ready(function() {
 	        },
 	        {
 	            author: "John Dewey",
-	            quote:"A problem well stated is a problem half solved."
+	            quote:"It is a familiar and significant saying that a problem well put is half-solved."
 	        },
 	        {
 	            author: "",
