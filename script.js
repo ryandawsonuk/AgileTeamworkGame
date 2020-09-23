@@ -170,6 +170,18 @@ $(document).ready(function() {
 	            quote:"Believe the terrain, not the map."
 	        },
 	        {
+	            author: "Scott Berkun",
+	            quote:"The best lesson from the myths of Newton and Archimedes is to work passionately but to take breaks. Sitting under trees and relaxing in baths lets the mind wander and frees the subconscious to do work on our behalf."
+	        },
+	        {
+	            author: "Scott Berkun",
+	            quote:"Increasing creativeness doesn’t require anything more than increasing your observations: become more aware of possible combinations."
+	        },
+	        {
+	            author: "Scott Berkun",
+	            quote:"The bottleneck is never code or creativity; it's lack of clarity."
+	        },
+	        {
 	            author: "Mary Poppendieck",
 	            quote:"The biggest cause of failure in software-intensive systems is not technical failure; it’s building the wrong thing."
 	        },
@@ -219,6 +231,9 @@ $(document).ready(function() {
         } 
         ];
         var random = Math.floor(Math.random() * myQuotes.length);
+        if ($("#quote").text().localeCompare(myQuotes[random].quote) == 0 ) {
+             random = Math.floor(Math.random() * myQuotes.length);
+        }
         displayQuote(myQuotes[random]);
         
     }

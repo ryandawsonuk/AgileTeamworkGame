@@ -2,4 +2,12 @@
 
 For when your coding or debugging has hit a wall and needs to get unstuck. Or any feeling of getting stuck on a software project.
 
-The design is forked from the RandomQuoteMachine. Read more about the making of that at [Codeococcus Blog](http://www.gordanaminovska.com/blog/2017/03/12/random-quote-machine/) 
+The Coding Inspiraton Machine gives advice from the experts, presented in an impactful way to jar us into a different perspective.
+
+![Snapshot Image](images/final.jpg)
+
+Either bookmark [the url](https://ryandawsonuk.github.io/CodingInspirationMachine/) or fork it and configure GitHub Pages for your fork under Settings, with no theme and from master.
+
+With a fork you can change the quotes in script.js to whatever you find most helpful. Also feel free to submit suggestions here or [contact me on twitter](https://twitter.com/ryandawsongb).
+
+The design is forked from the RandomQuoteMachine by gminovska. Read more about the making of that [on medium](https://medium.com/@allsavant/how-i-made-random-quote-machine-dd2933360c95) 
