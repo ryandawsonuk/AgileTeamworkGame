@@ -10,4 +10,4 @@ Either bookmark [the url](https://ryandawsonuk.github.io/CodingInspirationMachin
 
 With a fork you can change the quotes in script.js to whatever you find most helpful. Also feel free to submit suggestions here or [contact me on twitter](https://twitter.com/ryandawsongb).
 
-The design is forked from the RandomQuoteMachine by gminovska. Read more about the making of that [on medium](https://medium.com/@allsavant/how-i-made-random-quote-machine-dd2933360c95) 
+The design is forked from the [RandomQuoteMachine](https://github.com/gminovska/RandomQuoteMachine) by [Gordana Minovska](https://github.com/gminovska). Read more about the making of that [on medium](https://medium.com/@allsavant/how-i-made-random-quote-machine-dd2933360c95) 
