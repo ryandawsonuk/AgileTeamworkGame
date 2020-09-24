@@ -52,13 +52,13 @@ blockquote {
 blockquote p {
 	padding: 25px;
 text-align: center;
-font-size: 1.8em;
+font-size: 2em;
 font-family: 'Special Elite', cursive;
 }
 blockquote cite {
 	display: block;
     text-align: right;
-	font-size: 1.3em;
+	font-size: 1.8em;
 	font-family: 'Merriweather', 'Georgia', serif;
 	margin-bottom: 20px;
 	color: #fc8b80;
