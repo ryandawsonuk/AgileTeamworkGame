@@ -1,5 +1,5 @@
 html { 
-  background: url(images/mountains.jpg) no-repeat center center fixed; 
+  background: url(images/roadsky.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -33,13 +33,13 @@ h1, h3 {
 }
 
 header h1 {
-	font-weight: 100;
+	font-weight: bold;
     color: rgba(252, 139, 128, 0.75);
 	margin-bottom: 0;
 }
 
 header h3 {
-	color: #9E9E9E;
+	color: white;
     font-size: 1em;
 	font-family: 'Merriweather', 'Georgia', serif;
 	font-weight: 100;
@@ -50,15 +50,15 @@ blockquote {
 	border: none;
 }
 blockquote p {
-	padding: 25px;
+	padding: 0.5em;
 text-align: center;
-font-size: 2em;
+font-size: 1.5em;
 font-family: 'Special Elite', cursive;
 }
 blockquote cite {
 	display: block;
-    text-align: right;
-	font-size: 1.8em;
+    text-align: left;
+	font-size: 1.2em;
 	font-family: 'Merriweather', 'Georgia', serif;
 	margin-bottom: 20px;
 	color: #fc8b80;
