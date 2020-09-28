@@ -22,6 +22,14 @@ body {
 	  
 }
 
+hr {
+    border: none;
+    height: 2px;
+    /* Set the hr color */
+    color: white; /* old IE */
+    background-color: white; /* Modern Browsers */
+}
+
 header {
 	
 	/*background-color: gainsboro;*/

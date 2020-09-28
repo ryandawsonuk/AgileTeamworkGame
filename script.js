@@ -43,6 +43,12 @@ $(document).ready(function() {
         $("#perspective2").hide()
         $("#perspective3").hide()
         $("#perspective4").hide()
+        
+        $("#perspectivehr0").hide()
+        $("#perspectivehr1").hide()
+        $("#perspectivehr2").hide()
+        $("#perspectivehr3").hide()
+        $("#perspectivehr4").hide()
 
     }
 	
@@ -55,6 +61,7 @@ $(document).ready(function() {
             if ( $(perspid).text() == "" ) {
                 $(perspid).text(situation.perspectives[i])
                 $(perspid).fadeIn(1200)
+                $("#perspectivehr"+i).fadeIn(1200)
                 updated = true
                 console.log("set "+perspid+" to "+situation.perspectives[i])
                 break
@@ -73,7 +80,7 @@ $(document).ready(function() {
                 "Let's build a giant laser",
                 "We need a giant space ant-eater!",
                 "Let's offer them sugar in exchange for our freedom"],
-                situationNum: "Situation 1"
+                situationNum: "Demo Situation 0"
 	        },
 	        {
 	            situation: "This story is hard to define. We can work together as a team to define it.",
@@ -82,7 +89,7 @@ $(document).ready(function() {
                 "Responsibility for delivery is collective",
                 "Why can't developers help with defining a story?",
                 "What matters is working software"],
-                situationNum: "Situation 2"
+                situationNum: "Situation 1"
             },
             {
 	            situation: "We need the team to work the weekend. Just this once.",
@@ -91,11 +98,11 @@ $(document).ready(function() {
                 "How did this get missed in previous plans?",
                 "We need to ask individuals without putting them on the spot",
                 "How do we plan better in future?"],
-                situationNum: "Situation 3"
+                situationNum: "Situation 2"
             }
         ];
         
-        var situationIndex = $("#situationnum").text().split(" ").pop() - 1
+        var situationIndex = $("#situationnum").text().split(" ").pop()
         console.log("situation is "+situationIndex)
         updatePanel(situations, situationIndex);
         

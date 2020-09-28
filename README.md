@@ -8,6 +8,8 @@ Disagreement is to be welcomed. In the real world compromises would have to be r
 
 Based the principles of 'The Five Dysfunctions of a Team' and observations about Scrum and Dark Scrum. Part of the aim is to challenge silos and role boundaries.
 
+Scenarios are deliberately delicate. The idea is help teams get comfortable with working through disagreements, especially ones close to their real work.
+
 ![Snapshot Image](images/final.jpg)
 
 Either bookmark [the url](https://ryandawsonuk.github.io/AgileTeamworkGame/) or fork it and configure GitHub Pages for your fork under Settings, with no theme and from master.
