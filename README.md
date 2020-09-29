@@ -1,8 +1,12 @@
 # Agile Teamwork Game
 
+## Motivations
+
 This tool is a way to get practice working through issues as a team. The aims are to encourage healthy conflict and also to challenge flexibility of role boundaries.
 
 Scenarios are deliberately delicate. The idea is help teams get comfortable with acknowledging perspectives and working through disagreements.
+
+## Using the Tool/Game
 
 ![Snapshot Image](images/final.jpg)
 
@@ -11,6 +15,8 @@ The situations and perspectives are to stimulate discussion. There are no right 
 If it goes well you could switch to a whiteboard and go through perspectives on real situations the team has faced or is facing.
 
 Access at https://ryandawsonuk.github.io/AgileTeamworkGame/
+
+## When/How to Use
 
 The tool is based on the principles of 'The Five Dysfunctions of a Team' and observations about how Agile teamwork can degenerate (especially into so-called 'Dark Scrum'). 
 
@@ -25,6 +31,8 @@ The tool is aimed at Fear of Conflict and not Lack of Trust. To use it effective
 Either bookmark [the url](https://ryandawsonuk.github.io/AgileTeamworkGame/) or fork it and configure GitHub Pages for your fork under Settings, with no theme and from master.
 
 With a fork you can change script.js to whatever you find most helpful. Also feel free to submit suggestions here or [contact me on twitter](https://twitter.com/ryandawsongb).
+
+## Credits
 
 The design is based on the [RandomQuoteMachine](https://github.com/gminovska/RandomQuoteMachine) by [Gordana Minovska](https://github.com/gminovska). Read more about the making of that [on medium](https://medium.com/@allsavant/how-i-made-random-quote-machine-dd2933360c95) 
 
