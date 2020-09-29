@@ -117,6 +117,42 @@ $(document).ready(function() {
                 "What could go wrong with this in production? What would the impacts be?",
                 "Can we do a risk assessment?"],
                 situationNum: "Situation 4"
+            },
+            {
+	            situation: "We can't keep waiting for that team to make the change. Let's write our own version of their service",
+	            perspectives:["We'll be judged on whether we deliver to schedule",
+                "What would we say if another team wrote a version of one of our services?",
+                "How soon is this needed and does the other team understand the urgency?",
+                "Do we have a route of escalation?",
+                "Could we offer to help or trade any work?"],
+                situationNum: "Situation 5"
+            },
+            {
+	            situation: "There's nobody from UX available right now. You'll just have to put the story on hold",
+	            perspectives:["Why is there nobody available? Why isn't this a priority?",
+                "Could we do a design and submit it to someone from UX to review?",
+                "What would be the cost of rework if we had to change the design later?",
+                "What is the cost of putting the work on hold?",
+                "Can we do an initial version and get a sanity check from UX?"],
+                situationNum: "Situation 6"
+            },
+            {
+	            situation: "We're adding two new developers to the team. So the team should commit to proportionally more story points",
+	            perspectives:["Theyr'e not fully ramped-up yet",
+                "The more devs you add, the less each new one boosts output, due to communication overhead",
+                "Ramp-up time could mean a net drain in the short term",
+                "Maybe we can find tasks that don't require much background knowledge to get started with",
+                "We need to skill up the new Devs properly and we'll try to document it to reduce ramp-up in the future"],
+                situationNum: "Situation 7"
+            },
+            {
+	            situation: "Developers should document how to use the system. They wrote it so they must know best how to use it",
+	            perspectives:["Devs might know how they thought features would be used but have they seen the whole context?",
+                "The person that wrote the stories knows about the use cases and the context behind them",
+                "Whoever tested it must know how to use it",
+                "Could some of the key users help with documentation?",
+                "Isn't responsibility for delivery shared across the whole team?"],
+                situationNum: "Situation 8"
             }
         ];
         

@@ -6,9 +6,9 @@ Use this as a tool to be presented with scenarios and work through perspectives.
 
 Disagreement is to be welcomed. In the real world compromises would have to be reached. Use that.
 
-Based the principles of 'The Five Dysfunctions of a Team' and observations about Scrum and Dark Scrum. Part of the aim is to challenge silos and role boundaries.
+Based on the principles of 'The Five Dysfunctions of a Team' and observations about Scrum and Dark Scrum. Part of the aim is to challenge silos and role boundaries.
 
-Scenarios are deliberately delicate. The idea is help teams get comfortable with working through disagreements, especially ones close to their real work.
+Scenarios are deliberately delicate. The idea is help teams get comfortable with acknowledging perspectives and working through disagreements. Especially disagreements close to the team's real work.
 
 ![Snapshot Image](images/final.jpg)
 
