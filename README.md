@@ -1,16 +1,24 @@
 # Agile Teamwork Game
 
-Don't wait until contentious situations come up to get practice working through issues as a team.
+This tool is a way to get practice working through issues as a team. The aims are to encourage healthy conflict and also to challenge silos and role boundaries.
 
-Use this as a tool to be presented with scenarios and work through perspectives.
-
-Disagreement is to be welcomed. In the real world compromises would have to be reached. Use that.
-
-Based on the principles of 'The Five Dysfunctions of a Team' and observations about Scrum and Dark Scrum. Part of the aim is to challenge silos and role boundaries.
-
-Scenarios are deliberately delicate. The idea is help teams get comfortable with acknowledging perspectives and working through disagreements. Especially disagreements close to the team's real work.
+Scenarios are deliberately delicate. The idea is help teams get comfortable with acknowledging perspectives and working through disagreements.
 
 ![Snapshot Image](images/final.jpg)
+
+The situations and perspectives are to stimulate discussion. There are no right answers. The situations are deliberately vague. Different contexts could be imagined around the situations to explore what the team might then do. (For example, consider how attitudes to overtime might change if it were paid a large multiple of a normal hourly rate. Or how frustration at being blocked by another team might change if that team had done favours before.)
+
+If it goes well you could switch to a whiteboard and go through perspectives on real situations the team has faced or is facing.
+
+The tool is based on the principles of 'The Five Dysfunctions of a Team' and observations about how Agile teamwork can degenerate (especially into so-called 'Dark Scrum'). 
+
+The tool has similarities to [other exercises based on The Five Dysfunctions](https://buscreative.blogspot.com/2017/03/overcoming-five-dysfunctions-of-team.html), especially those geared towards engaging openly and constructively in disagreements (i.e. not getting personal and acknowledging differences of opinion). But the tool is tailored to an Agile context and will likely trigger reactions where team members see situations through the lens of their role and previous experience.
+
+Building trust in a team is a pre-requisite for safe conflict. It is at the foundation of the Five Dysfunctions pyramid.
+
+![Snapshot Image](images/fivedysfunctionsdiagram.jpg)
+
+The tool is aimed at Fear of Conflict and not Lack of Trust. To use it effectively you need to be able to create a safe space. For teams that show problematic and personalised conflict or for newly-formed teams it may be best to first try to build rapport with safer team-building exercises or games.
 
 Either bookmark [the url](https://ryandawsonuk.github.io/AgileTeamworkGame/) or fork it and configure GitHub Pages for your fork under Settings, with no theme and from master.
 
