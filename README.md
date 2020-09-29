@@ -1,6 +1,6 @@
 # Agile Teamwork Game
 
-This tool is a way to get practice working through issues as a team. The aims are to encourage healthy conflict and also to challenge silos and role boundaries.
+This tool is a way to get practice working through issues as a team. The aims are to encourage healthy conflict and also to challenge flexibility of role boundaries.
 
 Scenarios are deliberately delicate. The idea is help teams get comfortable with acknowledging perspectives and working through disagreements.
 
@@ -9,6 +9,8 @@ Scenarios are deliberately delicate. The idea is help teams get comfortable with
 The situations and perspectives are to stimulate discussion. There are no right answers. The situations are deliberately vague. Different contexts could be imagined around the situations to explore what the team might then do. (For example, consider how attitudes to overtime might change if it were paid a large multiple of a normal hourly rate. Or how frustration at being blocked by another team might change if that team had done favours before.)
 
 If it goes well you could switch to a whiteboard and go through perspectives on real situations the team has faced or is facing.
+
+Access at https://ryandawsonuk.github.io/AgileTeamworkGame/
 
 The tool is based on the principles of 'The Five Dysfunctions of a Team' and observations about how Agile teamwork can degenerate (especially into so-called 'Dark Scrum'). 
 
