@@ -51,7 +51,7 @@ header h3 {
     font-size: 1em;
 	font-family: 'Merriweather', 'Georgia', serif;
 	font-weight: 100;
-	margin: 0 0 50px 0;
+	margin: 0 0 40px 0;
 
 }
 blockquote {
@@ -60,15 +60,15 @@ blockquote {
 blockquote p {
 	padding: 0.5em;
 text-align: center;
-font-size: 1.5em;
+font-size: 1.3em;
 font-family: 'Special Elite', cursive;
 }
 blockquote cite {
 	display: block;
     text-align: left;
-	font-size: 1.5em;
+	font-size: 1.3em;
 	font-family: 'Merriweather', 'Georgia', serif;
-	margin-bottom: 20px;
+	margin-bottom: 15px;
 	color: #fc8b80;
     font-weight: bold;
 }
