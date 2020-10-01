@@ -92,22 +92,13 @@ $(document).ready(function() {
                 situationNum: "Situation 1"
             },
             {
-	            situation: "We need the team to work the weekend. Just this once.",
-	            perspectives:["Why is this so urgent?",
-                "Weekend work will wear the team down if we do it regularly",
-                "How did this get missed in previous plans?",
-                "We need to ask individuals without putting them on the spot",
-                "How do we plan better in future?"],
-                situationNum: "Situation 2"
-            },
-            {
 	            situation: "What do you mean it won't scale to that many users?",
 	            perspectives:["We haven't tested it, that wasn't listed as a non-functional requirement",
                 "We can put in a story to assess what it will scale to",
                 "Is that the number it needs to scale to? When would we expect that load?",
                 "Can we influence how much traffic will come when? Could we make the increase more staggered?",
                 "Is there a quick way to reduce the risk of failure from increased traffic?"],
-                situationNum: "Situation 3"
+                situationNum: "Situation 2"
             },
             {
 	            situation: "We would normally do more testing but we need to get this feature out ASAP",
@@ -116,7 +107,7 @@ $(document).ready(function() {
                 "What is ASAP and what's the impact of waiting?",
                 "What could go wrong with this in production? What would the impacts be?",
                 "Can we do a risk assessment?"],
-                situationNum: "Situation 4"
+                situationNum: "Situation 3"
             },
             {
 	            situation: "We can't keep waiting for that team to make the change. Let's write our own version of their service",
@@ -125,7 +116,7 @@ $(document).ready(function() {
                 "How soon is this needed and does the other team understand the urgency?",
                 "Do we have a route of escalation?",
                 "Could we offer to help or trade any work?"],
-                situationNum: "Situation 5"
+                situationNum: "Situation 4"
             },
             {
 	            situation: "There's nobody from UX available right now. You'll just have to put the story on hold",
@@ -134,6 +125,15 @@ $(document).ready(function() {
                 "What would be the cost of rework if we had to change the design later?",
                 "What is the cost of putting the work on hold?",
                 "Can we do an initial version and get a sanity check from UX?"],
+                situationNum: "Situation 5"
+            },
+            {
+	            situation: "We need the team to work the weekend. Just this once.",
+	            perspectives:["Why is this so urgent?",
+                "Weekend work will wear the team down if we do it regularly",
+                "How did this get missed in previous plans?",
+                "We need to ask individuals without putting them on the spot",
+                "How do we plan better in future?"],
                 situationNum: "Situation 6"
             },
             {

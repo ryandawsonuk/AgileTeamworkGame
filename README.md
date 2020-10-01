@@ -6,6 +6,7 @@ This tool helps to get practice working through issues as a team. The aims are:
 
 * Encourage healthy conflict
 * Help team members respect each other's perspectives
+* Confront how [agile manifesto values](https://agilemanifesto.org/) have to be played out in real situations
 * Challenge flexibility of role boundaries
 
 Discussion topics are deliberately delicate. This helps teams get comfortable with acknowledging perspectives and working through disagreements. It addresses the second dysfunction of 'The Five Dysfunctions of a Team' (Fear of Conflict) from an Agile point of view.
